@@ -1,0 +1,130 @@
+{
+  "Officer I": [
+    {
+      "name": "Vapid Stanier",
+      "year": "2011",
+      "description": "",
+      "img": "Fahrzeugliste/Vapid Stanier 2011.png"
+    },
+    {
+      "name": "Vapid Torrence",
+      "year": "2010-2019",
+      "description": "",
+      "img": "Fahrzeugliste/Vapid Torrence.png"
+    },
+    {
+      "name": "Vapid Scout Arjent",
+      "year": "2016",
+      "description": "",
+      "img": "Fahrzeugliste/Vapid Scout 2016 Arjent.png"
+    },
+    {
+      "name": "Vapid Scout Valor",
+      "year": "2016",
+      "description": "",
+      "img": "Fahrzeugliste/Vapid Scout 2016 Valor.png"
+    },
+    {
+      "name": "Declasse Alamo 2600",
+      "year": "ca. 2000",
+      "description": "",
+      "img": "Fahrzeugliste/Declasse Alamo 2600.png"
+    },
+    {
+      "name": "Vapid Sandstorm D205",
+      "year": "ca. 2000",
+      "description": "",
+      "img": "Fahrzeugliste/Vapid Sandstorm D205.png"
+    }
+  ],
+  "Officer II": [
+    {
+      "name": "Motorrad",
+      "year": "2011",
+      "description": "Nur erlaubt mit der Ausbildung",
+      "img": "Fahrzeugliste/BIKE.png"
+    },
+    {
+      "name": "Bravado Buffalo",
+      "year": "2018",
+      "description": "",
+      "img": "Fahrzeugliste/Bravado Buffalo 2018.png"
+    },
+    {
+      "name": "Vapid Scout",
+      "year": "2020",
+      "description": "",
+      "img": "Fahrzeugliste/Vapid Scout 2020.png"
+    },
+    {
+      "name": "Declasse Alamo 2700 LX",
+      "year": "2000",
+      "description": "",
+      "img": "Fahrzeugliste/Declasse Alamo 2700 LX.png"
+    }
+  ],
+  "Officer III": [
+  {
+    "name": "Vapid Stanier",
+    "year" : "1998",
+    "description": "In Normal und in Traffic",
+    "img": "Fahrzeugliste/Vapid Stanier 1998.png"
+  },
+  {
+    "name": "Vapid Sadler",
+    "year" : "2013",
+    "description": "",
+    "img": "Fahrzeugliste/Vapid Sadler 2013.png"
+    }
+  ],
+  "Sonstiger Fuhrpark": [
+  {
+    "name": "MTL Packer",
+    "year" : "2020",
+    "description": "Mobile Command Post",
+    "img": "Fahrzeugliste/MTL Packer.png"
+  },
+  {
+    "name": "Brute Chieftain",
+    "year" : "",
+    "description": "Bearcat | S.W.A.T.",
+    "img": "Fahrzeugliste/Brute Chieftain.png"
+  },
+  {
+    "name": "Brute Bus Classic",
+    "year" : "1950 - 1967",
+    "description": "Academy Bus",
+    "img": "Fahrzeugliste/Brute Bus Classic.png"
+  },
+  {
+    "name": "ATV",
+    "year" : "",
+    "description": "Für Strände etc.",
+    "img": "Fahrzeugliste/ATV.png"
+  },
+  {
+    "name": "Helikopter",
+    "year" : "",
+    "description": "Air Unit",
+    "img": "Fahrzeugliste/Helikopter.png"
+  },
+  {
+    "name": "Helikopter Tactic",
+    "year" : "",
+    "description": "S.W.A.T.",
+    "img": "Fahrzeugliste/Helikopter Tactic.png"
+  },
+  {
+    "name": "Declasse Yosemite",
+    "year" : "2001",
+    "description": "Bomb Squad",
+    "img": "Fahrzeugliste/Declasse Yosemite 2017.png"
+  },
+  {
+    "name": "Truck",
+    "year" : "",
+    "description": "Bomb Squad",
+    "img": "Fahrzeugliste/Truck.png"
+  }
+ ]
+}
